@@ -1,0 +1,100 @@
+[
+  {
+    "msTitle": "Bamberg, Staatsbibliothek, Can. 6",
+    "publicationStmt": "CC0",
+    "repository": "Staatsbibliothek",
+    "geoRepository": "49.890972,10.894102",
+    "settlementIdent": "Bamberg",
+    "countryIdent": "Deutschland",
+    "idno": "Can. 6",
+    "msSigle": "B",
+    "altIdentifier": "C44",
+    "msName": "Bamberg, Staatsbibliothek, Can. 6",
+    "summaryContents": "Am Anfang ein neu eingebundener Quaternio von dünnerem, stark abgeriebenen Pergament, auf dem die Texte auf fol. 1–9 stehen. Der Prolog gehörte somit ursprünglich nicht zum Text, auch die Admonitio Synodalis und das Konzil von Seligenstadt sind nachträglich eingefügt worden. Die Blätter 3–5 dürften mit einem weiteren, verlorenen Blatt ursprünglich am Ende des Codex gestanden haben, hierauf ist die alte Zählweise der Blätter ein Hinweis.Die Admonitio Synodalis erscheint hier außerhalb des Ordos als einzelnes Dokument.Die Synode von Seligenstadt dürfte ursprünglich am Ende des Codex gestanden haben, sie bricht durch Blattverlust nach Can. 19 ab.",
+    "material": "parchment",
+    "height": "33.0",
+    "width": "26.0",
+    "leaves": "312",
+    "condition": "Einige Beschädigungen der Seiten an Fol. 1–2, 92, 142, 145, 167, 183, 193, 217, 260, 282, 297, 312 zzgl. weitere kleine Schäden",
+    "columns": "2",
+    "lines": "30",
+    "hands": "35",
+    "script": "Karolingische Minuskel",
+    "summaryProvenance": "Geschrieben in Worms im ¼ d. 11. Jahrhunderts. Eigentum Dombibliothek Bamberg.",
+    "origPlace": "Worms",
+    "geoOrigin": "49.630167,8.359789",
+    "dateOrigin": "1000-1025",
+    "regionOrigin": "Rheinland-Pfalz",
+    "countryOrigin": "Deutschland",
+    "prevOwner": "Dombibliothek Bamberg",
+    "geoProvenance": "49.89162, 10.8821",
+    "settlementProvenance": "Bamberg",
+    "regionProvenance": "Bayern",
+    "countryProvenance": "Deutschland",
+    "digi": "https://www.digitale-sammlungen.de/de/view/bsb00140701",
+    "iiifManifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00140701/manifest",
+    "cat": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1718788261097~886&pid=7091635&locale=de&usePid1=true&usePid2=true",
+    "responsiblePersons": [
+      {
+        "name": "Michela ",
+        "surname": "Parma",
+        "affiliation": "Uni Mainz"
+      }
+    ],
+    "msItems": [
+      {
+        "author": " Burchard von                                Worms ",
+        "title": "Decretum",
+        "textLang": "Latein",
+        "incipit": "Bvrchardus solo nomine vvormaciinsis episcopvs.",
+        "explicit": "Sed in hęc ignem conflagrationis illius pertimescent                                    inmortales atque in corruptibiles facti sunt uiuorum trium                                    corruptibilia corpora atque mortalia in camino ardenti inlęsa                                    uiuere non potuerunt.",
+        "textFamily": "Wormser Ordnung B",
+        "textSubFamily": "Deutsche Handschriftengruppe",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1r",
+            "to": "2v"
+          },
+          {
+            "from": "6r",
+            "to": "312r"
+          }
+        ]
+      },
+      {
+        "author": " Unbekannt ",
+        "title": "Admonitio synodalis",
+        "textLang": "Latein",
+        "incipit": "Sermo synodalis qui in singulis synodis parrochianis synodus presbiteris est enunciandus. Fratres                                    presbiteri et sacerdotes domini cooperatores ordinis nostri                                    estis [...].",
+        "explicit": "[…] praestante domino nostro iesu christo qui cum patre                                    et spiritu sancto uiuit et regnat deus per omnia                                    saecula.",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "3r",
+            "to": "4v"
+          }
+        ]
+      },
+      {
+        "author": " Unbekannt ",
+        "title": "Synode von Seligenstadt",
+        "textLang": "Latein",
+        "incipit": "In dei nomine ego Aribo mogontinę sedis archiepiscopus quamuis indignus cum cęteris confribus nostris atque coepiscopus Burghardo Wormaciense quo Werinhario argentino Brunone augustense Eberhardo babenbergensi […]“",
+        "explicit": "Decretum est in eodem concilio ut omnis penitens dum carrinam ieiunet de loco ad locum non migregt [...]",
+        "textFamily": "",
+        "textSubFamily": "Erste Rezension",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "4vb",
+            "to": "5v"
+          }
+        ]
+      }
+    ],
+    "literature": []
+  }
+]

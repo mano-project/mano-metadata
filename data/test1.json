@@ -31,9 +31,9 @@
     "settlementProvenance": "Test1",
     "regionProvenance": "Test1",
     "countryProvenance": "Test1",
-    "digi": "https://https://burchards-dekret-digital.de/",
-    "iiifManifest": "https://https://burchards-dekret-digital.de/",
-    "cat": "https://https://burchards-dekret-digital.de/",
+    "digi": "https://burchards-dekret-digital.de/",
+    "iiifManifest": "https://burchards-dekret-digital.de/",
+    "cat": "https://burchards-dekret-digital.de/",
     "responsiblePersons": [
       {
         "name": "Michela",
