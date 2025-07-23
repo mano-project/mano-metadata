@@ -1,0 +1,154 @@
+[
+  {
+    "msTitle": "Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Barth. 50",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "University Library Johann Christian Senckenberg (Library)",
+      "uri": "http://www.wikidata.org/entity/Q875587"
+    },
+    "geoRepository": "50.1204, 8.65311",
+    "settlementIdent": {
+      "value": "Frankfurt-Innenstadt II",
+      "uri": "https://www.wikidata.org/entity/Q1444829"
+    },
+    "countryIdent": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "idno": "Barth.50",
+    "msSigle": "F",
+    "altIdentifier": "F ix",
+    "msName": "Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Barth. 50",
+    "summaryContents": "",
+    "condition": "Einband der Handschrift stark beschädigt, 1964 restauriert; Lederbezug der Deckel, 2 Langriemenschließen und Lederflechtung am Kapital erneuert. Schlussblatt der Handschrift beschädigt mit leichtem Textverlust.",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "height": "33",
+    "width": "22",
+    "leaves": "315",
+    "columns": "2",
+    "lines": "30",
+    "summaryProvenance": "Geschrieben in Worms im ¼ d. 11. Jahrhunderts. Eigentum St. Bartholomäus, Frankfurt",
+    "origPlace": {
+      "value": "Worms (town in Rhineland-Palatinate, Germany)",
+      "uri": "http://www.wikidata.org/entity/Q3852"
+    },
+    "geoOrigin": "49.6302618, 8.3620898",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginNotBefore": "1000",
+    "dateOriginNotAfter": "1025",
+    "digi": "http://sammlungen.ub.uni-frankfurt.de/msma/urn/urn:nbn:de:hebis:30:2-12488",
+    "iiifManifest": "https://burchard.adwmainz.net/exist/webdav/db/collections/bdd/data/tests/manifests/frankfurt-ub-b-50-manifest.json",
+    "cat": "https://sammlungen.ub.uni-frankfurt.de/kataloge/purn/urn:nbn:de:hebis:30:2-269-p0136-3",
+    "responsiblePersons": [
+      {
+        "name": "Michela",
+        "surname": "Parma",
+        "affiliation": {
+          "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q161982"
+        },
+        "ref": " https://orcid.org/0000-0003-1959-2897"
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "et in quo geniculo fideles et coniungi et separari debeant et de reuocatione et de poenitentia singulorum.",
+        "explicit": "Sed in hęc ignem conflagrationis illius pertimescent inmortales atque incorruptibiles facti sunt uiuerum trium corruptibilia corpora atque mortalia in camino ardenti inlesa uiuere non potuerunt.",
+        "textFamily": "",
+        "textSubFamily": "Deutsche Handschriftengruppe",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1ra",
+            "to": "5v"
+          },
+          {
+            "from": "6v",
+            "to": "315v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Paschal II",
+          "uri": "http://www.wikidata.org/entity/Q227967"
+        },
+        "title": "Concilium Guastallense",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Per multos iam annos regni teutonici [...]",
+        "explicit": "[...] quos uita scientiaque commendant.",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "Kirchenrechtlicher Text",
+        "pageRanges": [
+          {
+            "from": "5v",
+            "to": "5v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Isidore of Seville",
+          "uri": "http://www.wikidata.org/entity/Q166876"
+        },
+        "title": "Brief Isidors von Sevilla an Bischof Massona von                                Mérida",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Incipit epistola ysidori episcopi ad massonem episcopum de restravrationis sacerdotis. Domino sancto […]",
+        "explicit": "Ergo ita est uterque derimanda sententia.",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "315v",
+            "to": "315v"
+          }
+        ]
+      }
+    ],
+    "provenance": [
+      {
+        "name": {
+          "value": "Frankfurt Cathedral",
+          "uri": "http://www.wikidata.org/entity/Q57341"
+        },
+        "type": "org",
+        "date": "",
+        "geo": "50.110556, 8.685",
+        "settlement": {
+          "value": "Frankfurt-Innenstadt I",
+          "uri": "https://www.wikidata.org/entity/Q779842"
+        },
+        "country": {
+          "value": "Germany",
+          "uri": "https://www.wikidata.org/entity/Q183"
+        }
+      }
+    ],
+    "literature": []
+  }
+]

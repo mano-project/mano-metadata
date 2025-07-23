@@ -1,0 +1,88 @@
+[
+  {
+    "msTitle": "Köln, Erzbischöfliche Diözesan- und Dombibliothek, Cod. 119",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "Erzbischöfliche Diözesan- und Dombibliothek Köln",
+      "uri": ""
+    },
+    "geoRepository": "",
+    "settlementIdent": {
+      "value": "",
+      "uri": ""
+    },
+    "countryIdent": {
+      "value": "",
+      "uri": ""
+    },
+    "idno": "Dombibliothek Cod. 119",
+    "msSigle": "K",
+    "altIdentifier": "Darmst. 2118",
+    "msName": "Köln, Erzbischöfliche Diözesan- und Dombibliothek, Cod. 119",
+    "summaryContents": "",
+    "condition": "Die Lagen I - IX und XXIV sowie der Schluss von Buch XX sind nicht mehr vorhanden.",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "height": "35.9",
+    "width": "28",
+    "leaves": "204",
+    "columns": "2",
+    "lines": "31",
+    "summaryProvenance": "Geschrieben in Worms im ¼ d. 11. Jahrhunderts. Köln Dombibliothek, Köln.",
+    "origPlace": {
+      "value": "Worms (town in Rhineland-Palatinate, Germany)",
+      "uri": "http://www.wikidata.org/entity/Q3852"
+    },
+    "geoOrigin": "49.6302618, 8.3620898",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginNotBefore": "1000",
+    "dateOriginNotAfter": "1025",
+    "digi": "https://digital.dombibliothek-koeln.de/hs/content/zoom/284348",
+    "iiifManifest": "https://digital.dombibliothek-koeln.de/hs/i3f/v20/284343/manifest",
+    "cat": "https://digital.dombibliothek-koeln.de/hs/content/titleinfo/284343",
+    "responsiblePersons": [
+      {
+        "name": "Michela",
+        "surname": "Parma",
+        "affiliation": {
+          "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q161982"
+        },
+        "ref": " https://orcid.org/0000-0003-1959-2897"
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "[de ecclesiasticis ordinibus] ut nullatenus aliquis pręsumat in concilio uel synodali conuentu. […]",
+        "explicit": "[…]Quando hanc et ipsi mortuorum […]",
+        "textFamily": "Wormser Ordnung B",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1r",
+            "to": "204v"
+          }
+        ]
+      }
+    ],
+    "provenance": [],
+    "literature": []
+  }
+]

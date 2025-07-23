@@ -1,0 +1,110 @@
+[
+  {
+    "msTitle": "Würzburg, Universitätsbibliothek, M.p.th.f 167",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "University Library Würzburg (library in Germany)",
+      "uri": "http://www.wikidata.org/entity/Q1247229"
+    },
+    "geoRepository": "49.7825, 9.96806",
+    "settlementIdent": {
+      "value": "Würzburg",
+      "uri": "https://www.wikidata.org/entity/Q2999"
+    },
+    "countryIdent": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "idno": "M.p.th.f 167",
+    "msSigle": "Wz1",
+    "altIdentifier": "S26",
+    "msName": "Würzburg, Universitätsbibliothek, M.p.th.f 167",
+    "summaryContents": "Eine der wenigen Handschriften mit der gleichen Kapitelabfolge wie V; in der Textform teilweise vergleichbar mit V, teilweise vollständiger. Wü zeugt von einer Textgestalt zwischen und nach der Überarbeitung von V und leitet sich vermutlich von einer unbekannten Schwesterhandschrift von V ab.",
+    "condition": "Zu Beginn des Codex fehlen 7 Lagen, Blattverlust zw. fol. 3 und 5 sowie zwischen 72 und 73.",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "height": "31",
+    "width": "23",
+    "leaves": "164",
+    "columns": "1",
+    "lines": "34",
+    "summaryProvenance": "Geschrieben in Worms im ¾ d. 11. Jahrhunderts. Eigentum Amorbach",
+    "origPlace": {
+      "value": "Amorbach (urban municipality of Germany)",
+      "uri": "http://www.wikidata.org/entity/Q474051"
+    },
+    "geoOrigin": "49.64405, 9.2215",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginNotBefore": "1050",
+    "dateOriginNotAfter": "1075",
+    "digi": "",
+    "iiifManifest": "",
+    "cat": "http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0083_b004_jpg.htm",
+    "responsiblePersons": [
+      {
+        "name": "Michela",
+        "surname": "Parma",
+        "affiliation": {
+          "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q161982"
+        },
+        "ref": "https://orcid.org/0000-0003-1959-2897"
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "Wormser Ordnung A",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1r",
+            "to": "159v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Lex Baiuvariorum",
+        "textLang": {
+          "value": "",
+          "uri": ""
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "160r",
+            "to": "164v"
+          }
+        ]
+      }
+    ],
+    "provenance": [],
+    "literature": []
+  }
+]

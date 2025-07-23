@@ -1,0 +1,154 @@
+[
+  {
+    "msTitle": "Vatikanstadt, Biblioteca Apostolica Vaticana, Pal. Lat. 585",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "Vatican Library (library of the Holy See)",
+      "uri": "http://www.wikidata.org/entity/Q213678"
+    },
+    "geoRepository": "41.904722222222, 12.454444444444",
+    "settlementIdent": {
+      "value": "Vatican City",
+      "uri": "https://www.wikidata.org/entity/Q237"
+    },
+    "countryIdent": {
+      "value": "Vatican City",
+      "uri": "https://www.wikidata.org/entity/Q237"
+    },
+    "idno": "Pal. Lat. 585",
+    "msSigle": "Va2",
+    "altIdentifier": "",
+    "msName": "Vatikanstadt, Biblioteca Apostolica Vaticana, Pal. Lat. 585",
+    "summaryContents": "Wie auch in der Edition ist die Admonitio Synodalis hier in den Ordo de celebrando concilio integriert.",
+    "condition": "Das 5. Buch auf den Lagen XXXII (fol. 285–292) und die Lagen XXXIII (fol. 293–298) ist falsch eingebunden, sodass die Capitulatio des 5. Buches an dessen Ende steht, nicht an dessen Anfang.",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "height": "34",
+    "width": "26",
+    "leaves": "330",
+    "columns": "2",
+    "lines": "22",
+    "summaryProvenance": "Geschrieben in Worms im ¼ d. 11. Jahrhunderts. Stiftsbibliothek Heiliggeistkirche, Heidelberg.",
+    "origPlace": {
+      "value": "Worms (town in Rhineland-Palatinate, Germany)",
+      "uri": "http://www.wikidata.org/entity/Q3852"
+    },
+    "geoOrigin": "49.6302618, 8.3620898",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginNotBefore": "1000",
+    "dateOriginNotAfter": "1025",
+    "digi": "https://digi.vatlib.it/view/MSS_Pal.lat.585",
+    "iiifManifest": "https://digi.vatlib.it/iiif/MSS_Pal.lat.585/manifest.json",
+    "cat": "https://opac.vatlib.it/mss/detail/Pal.lat.585",
+    "responsiblePersons": [
+      {
+        "name": "Michela",
+        "surname": "Parma",
+        "affiliation": {
+          "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q161982"
+        },
+        "ref": " https://orcid.org/0000-0003-1959-2897"
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Ordo de celebrando concilio",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Hora conuenienti quando episcopo uel eius uicario ut sum fuierit omnes expelluntur de acclesia; […]",
+        "explicit": "Et si synodus est uernalis, finitis istis pontifex inde procedens reconciliatisque poenitentibus more solito doceat populum et in fine prędicationis remissionem peccatorum faciat, quia dies illa dies indulgentiae uocatur",
+        "textFamily": "Handschriften BHP3VWMi",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1r",
+            "to": "6r"
+          },
+          {
+            "from": "9v",
+            "to": "10r"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Admonitio Synodalis",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Finito euangelio; episcopo et caeteris in ordine sedentibus; a diacono legatur hęc admonitio. Fratres presbiteri et sacerdotes domini cooperatores ordinis nostris estis.",
+        "explicit": "Praestante domino nostro Iesu Christo, qui cum patre et spiritu sancto uiuit et regnat deus. Per omnia saecula sęculorum.",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "6r",
+            "to": "9v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "In nomine christi incipit pręfaciuncula istius libelli.",
+        "explicit": "Si abbas mulierem in monasterium suum ingredi permiserit aut festiuitates a liquas ibidem spectare tribus mensio in alio monasterio retrudatur pane et aqua tantum contentus.",
+        "textFamily": "Wormser Ordnung A",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "10v",
+            "to": "330r"
+          }
+        ]
+      }
+    ],
+    "provenance": [
+      {
+        "name": {
+          "value": "Heidelberg University Library",
+          "uri": "http://www.wikidata.org/entity/Q880794"
+        },
+        "type": "org",
+        "date": "",
+        "geo": "49.4097, 8.70583",
+        "settlement": {
+          "value": "Heidelberg",
+          "uri": "https://www.wikidata.org/entity/Q2966"
+        },
+        "country": {
+          "value": "Germany",
+          "uri": "https://www.wikidata.org/entity/Q183"
+        }
+      }
+    ],
+    "literature": []
+  }
+]
