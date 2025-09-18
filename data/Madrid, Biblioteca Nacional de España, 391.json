@@ -1,0 +1,97 @@
+[
+  {
+    "msTitle": "Madrid, Biblioteca Nacional de España, 391",
+    "publicationStmt": "",
+    "repository": {
+      "value": "Biblioteca Nacional de España (library in Spain)",
+      "uri": "http://www.wikidata.org/entity/Q750403"
+    },
+    "geoRepository": "40.423822, -3.690215",
+    "settlementIdent": {
+      "value": "Madrid",
+      "uri": "https://www.wikidata.org/entity/Q2807"
+    },
+    "countryIdent": {
+      "value": "Spain",
+      "uri": "https://www.wikidata.org/entity/Q29"
+    },
+    "idno": "391",
+    "msSigle": "Md2",
+    "altIdentifier": "",
+    "msName": "Madrid, Biblioteca Nacional de España, 391",
+    "summaryContents": "Burchard, Decretum",
+    "condition": "Anfang des Dekrets fehlt. Einige beschädigte Seiten.",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "leaves": "204",
+    "height": "40",
+    "width": "30",
+    "columns": "2",
+    "lines": "39",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "",
+      "uri": ""
+    },
+    "geoOrigin": "",
+    "countryOrigin": {
+      "value": "",
+      "uri": ""
+    },
+    "dateOriginNotBefore": "1100",
+    "dateOriginNotAfter": "1199",
+    "digi": "https://bdh-rd.bne.es/viewer.vm?id=0000040427&page=1",
+    "iiifManifest": "",
+    "cat": "https://bdh.bne.es/bnesearch/detalle/bdh0000040427",
+    "responsiblePersons": [
+      {
+        "name": "Matthias",
+        "surname": "Rozein",
+        "affiliation": {
+          "value": "University of Liège (Belgian public university founded in 1817)",
+          "uri": "http://www.wikidata.org/entity/Q1334582"
+        },
+        "ref": ""
+      },
+      {
+        "name": "Gabriel",
+        "surname": "Anhegger",
+        "affiliation": {
+          "value": "University of Tübingen (public research university in Tübingen, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q153978"
+        },
+        "ref": ""
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "[…] tue uite. Unus frater si regentibus plebes",
+        "explicit": "speculationum vocatur",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1ra",
+            "to": "203rb"
+          }
+        ]
+      }
+    ],
+    "provenance": [],
+    "literature": []
+  }
+]

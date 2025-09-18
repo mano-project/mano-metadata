@@ -1,0 +1,84 @@
+[
+  {
+    "msTitle": "Burchardi Wormatiensis episcopi volumen Decretorum. Exit in libro 19",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "München, Bayerische Staatsbibliothek",
+      "uri": ""
+    },
+    "geoRepository": "48.8505, 11.34",
+    "settlementIdent": {
+      "value": "",
+      "uri": ""
+    },
+    "countryIdent": {
+      "value": "Deutschland",
+      "uri": ""
+    },
+    "idno": " Clm 5801c",
+    "msSigle": "Mu2",
+    "altIdentifier": "OCLC: 935520455",
+    "msName": "Burchardi Wormatiensis episcopi volumen Decretorum. Exit in libro 19",
+    "summaryContents": "",
+    "condition": "Mikrofilm",
+    "hands": "1",
+    "script": {
+      "value": "Karolingisch",
+      "uri": "http://vocab.getty.edu/aat/300020764"
+    },
+    "material": "parchment",
+    "leaves": "173",
+    "height": "",
+    "width": "",
+    "columns": "2",
+    "lines": "40",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "Ebersberg (town in Bavaria, Germany)",
+      "uri": "http://www.wikidata.org/entity/Q253003"
+    },
+    "geoOrigin": "48.083333333333336, 11.966666666666667",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginNotBefore": "12 Jh.",
+    "dateOriginNotAfter": "",
+    "digi": "https://www.digitale-sammlungen.de/en/details/bsb00133669",
+    "iiifManifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00133669/manifest",
+    "cat": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037677889707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,991037677889707356",
+    "responsiblePersons": [
+      {
+        "name": "Burchard",
+        "surname": "von Worms",
+        "affiliation": {
+          "value": "",
+          "uri": ""
+        },
+        "ref": "118666088"
+      }
+    ],
+    "msItems": [],
+    "provenance": [],
+    "literature": [
+      {
+        "type": "book",
+        "title": "Königliche Hof- und Staatsbibliothek zu München: Catalogus codicum latinorum Bibliothecae Regiae Monacensis. 1,3, Codices num. 5251 - 8100 complecten",
+        "date": "1873",
+        "citedRange": "40",
+        "publisher": "",
+        "pubPlace": "",
+        "series": "",
+        "authors": [
+          {
+            "forename": "Karl",
+            "surname": "Halm"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      }
+    ]
+  }
+]
