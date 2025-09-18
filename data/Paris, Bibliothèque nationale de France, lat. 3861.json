@@ -1,0 +1,92 @@
+[
+  {
+    "msTitle": "Paris, Bibliothèque nationale de France, lat. 3861",
+    "publicationStmt": "",
+    "repository": {
+      "value": "Bibliothèque nationale de France (national library of France in Paris)",
+      "uri": "http://www.wikidata.org/entity/Q193563"
+    },
+    "geoRepository": "48.833611111111, 2.3758333333333",
+    "settlementIdent": {
+      "value": "Kingdom of France",
+      "uri": "https://www.wikidata.org/entity/Q70972"
+    },
+    "countryIdent": {
+      "value": "France",
+      "uri": "https://www.wikidata.org/entity/Q142"
+    },
+    "idno": "lat. 3861",
+    "msSigle": "P3",
+    "altIdentifier": "",
+    "msName": "Burchardi, Wormaciensis Episcopi, decretorum libri viginti.",
+    "summaryContents": "complete copy of the \"Type B\" of italian manuscripts",
+    "condition": "",
+    "hands": "2",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "leaves": "180",
+    "height": "",
+    "width": "",
+    "columns": "2",
+    "lines": "44",
+    "summaryProvenance": "complete copy (\"Type B\") of Italian manuscripts",
+    "origPlace": {
+      "value": "Le Puy-en-Velay (commune in Haute-Loire, France)",
+      "uri": "http://www.wikidata.org/entity/Q184359"
+    },
+    "geoOrigin": "45.043333333333, 3.885",
+    "countryOrigin": {
+      "value": "France",
+      "uri": "https://www.wikidata.org/entity/Q142"
+    },
+    "dateOriginNotBefore": "12th century",
+    "dateOriginNotAfter": "12th century",
+    "digi": "https://gallica.bnf.fr/ark:/12148/btv1b52513586k ",
+    "iiifManifest": "",
+    "cat": "https://gallica.bnf.fr/ark:/12148/btv1b10000511d/f65",
+    "responsiblePersons": [],
+    "msItems": [],
+    "provenance": [
+      {
+        "name": {
+          "value": "cathedral (Christian church, which is seat of a bishop)",
+          "uri": "http://www.wikidata.org/entity/Q2977"
+        },
+        "type": "org",
+        "date": "",
+        "geo": "",
+        "settlement": {
+          "value": "",
+          "uri": ""
+        },
+        "country": {
+          "value": "",
+          "uri": ""
+        }
+      }
+    ],
+    "literature": [
+      {
+        "type": "book",
+        "title": "Canonical Collections of the EarlyMiddle Ages (ca. –) A Bibliographical Guide to the Manuscripts and Literature",
+        "date": "1999",
+        "citedRange": "140",
+        "publisher": "",
+        "pubPlace": "",
+        "series": "",
+        "authors": [
+          {
+            "forename": "Lotte",
+            "surname": "Kéry"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      }
+    ]
+  }
+]

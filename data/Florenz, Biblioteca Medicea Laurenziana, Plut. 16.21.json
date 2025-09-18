@@ -1,0 +1,154 @@
+[
+  {
+    "msTitle": "Florenz, Biblioteca Medicea Laurenziana, Plut. 16.21",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "Biblioteca Medicea Laurenziana (library in Florence, Italy)",
+      "uri": "http://www.wikidata.org/entity/Q856419"
+    },
+    "geoRepository": "43.774656, 11.254536",
+    "settlementIdent": {
+      "value": "Florence",
+      "uri": "https://www.wikidata.org/entity/Q2044"
+    },
+    "countryIdent": {
+      "value": "Italy",
+      "uri": "https://www.wikidata.org/entity/Q38"
+    },
+    "idno": "Plut. 16.21",
+    "msSigle": "Fl2",
+    "altIdentifier": "",
+    "msName": "Florenz, Biblioteca Medicea Laurenziana, Plut. 16.21",
+    "summaryContents": "",
+    "condition": "Gut.",
+    "hands": "",
+    "script": {
+      "value": "Karolingisch",
+      "uri": "http://vocab.getty.edu/aat/300020764"
+    },
+    "material": "parchment",
+    "leaves": "250",
+    "height": "305",
+    "width": "200",
+    "columns": "1",
+    "lines": "86",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "",
+      "uri": ""
+    },
+    "geoOrigin": "",
+    "countryOrigin": {
+      "value": "",
+      "uri": ""
+    },
+    "dateOriginNotBefore": "1001",
+    "dateOriginNotAfter": "1100",
+    "digi": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/427536/rec/1",
+    "iiifManifest": "",
+    "cat": "https://cdm21059.contentdm.oclc.org/digital/collection/cataloghi/id/985",
+    "responsiblePersons": [
+      {
+        "name": "Clara",
+        "surname": "Oepen",
+        "affiliation": {
+          "value": "University of Cologne (university in Germany)",
+          "uri": "http://www.wikidata.org/entity/Q54096"
+        },
+        "ref": ""
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Burchardi Opera",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "BURCHARDUS SOLO NOMINE WORMATIENSIS EPISCOPUS BRUCHIONI FIDELI SUO EIUSDEM videlicet sedis praeposito in christo domini salutem",
+        "explicit": "quibus per eam absolvi videantur",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "5v",
+            "to": "243r"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Gregory I (64th Bishop of Rome, Head of the Roman Catholic Church from 590 to 604)",
+          "uri": "http://www.wikidata.org/entity/Q42827"
+        },
+        "title": "Beginn von De Ordinatione",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "caitulum sanctae gregorii papae ",
+        "explicit": "Deo gratias amen.",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "243r",
+            "to": "243r"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Paschasius Radbertus (French monk)",
+          "uri": "http://www.wikidata.org/entity/Q654858"
+        },
+        "title": "Brief des heiligen Paschasius an den Erzbischof von Mailand",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Epistola sancti parcasii ad mediolanensem archiepiscopum simoniaca haeresi laborantem ",
+        "explicit": "neque in futuro saeculo mittantur",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "243r",
+            "to": "244r"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "",
+        "textLang": {
+          "value": "",
+          "uri": ""
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "",
+            "to": ""
+          }
+        ]
+      }
+    ],
+    "provenance": [],
+    "literature": []
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "msTitle": "Lucca, Biblioteca Capitolare Feliniana e Biblioteca Arcivescovile, 124",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "Biblioteca Capitolare Feliniana (library in Tuscany)",
+      "uri": "http://www.wikidata.org/entity/Q86537159"
+    },
+    "geoRepository": "43.840844, 10.507085",
+    "settlementIdent": {
+      "value": "Lucca",
+      "uri": "https://www.wikidata.org/entity/Q13373"
+    },
+    "countryIdent": {
+      "value": "Italy",
+      "uri": "https://www.wikidata.org/entity/Q38"
+    },
+    "idno": "124",
+    "msSigle": "Lua",
+    "altIdentifier": "LXXXVIII",
+    "msName": "Lucca, Biblioteca Capitolare Feliniana e Biblioteca Arcivescovile, 124",
+    "summaryContents": "",
+    "condition": "Restauriert",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "leaves": "197",
+    "height": "454",
+    "width": "315",
+    "columns": "2",
+    "lines": "",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "Lucca (city and comune in Tuscany, Central Italy)",
+      "uri": "http://www.wikidata.org/entity/Q13373"
+    },
+    "geoOrigin": "43.85, 10.516666666667",
+    "countryOrigin": {
+      "value": "Italy",
+      "uri": "https://www.wikidata.org/entity/Q38"
+    },
+    "dateOriginNotBefore": "1170",
+    "dateOriginNotAfter": "1180",
+    "digi": "",
+    "iiifManifest": "",
+    "cat": "",
+    "responsiblePersons": [],
+    "msItems": [
+      {
+        "author": {
+          "value": "Paschal I (pope)",
+          "uri": "http://www.wikidata.org/entity/Q103308"
+        },
+        "title": "Epistola Guidonis",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Fraternae mortis crimen inquirit quisque",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "2va",
+            "to": "2vab"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretorum libri XX",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Brochardus nur nomine vuormatiensis episcopus Bruchoni ... Multis iam sepe diebus familiaritas",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "5ra",
+            "to": "166va"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "Concilium in Salegunstat habitum",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Ut quattuordecim die omnes christiani ante festivitem sancti Iohannis",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "166vb",
+            "to": "167va"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "Decretales pseudo Isidorianae",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "167vb",
+            "to": "172vb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "Collectio Novariensis ",
+        "textLang": {
+          "value": "",
+          "uri": ""
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "173ra",
+            "to": "191rb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "Acta concilii Romani a. 826 ",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "In nomine Dei sarvatoris (!) unsere Iesus Christi imperantibus dominis ... Desiderabilem boni operis inreprhensiblem et reliquis optimis apparitionibus",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "191rb",
+            "to": "193va"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Leo IV (pope of the Catholic Church)",
+          "uri": "http://www.wikidata.org/entity/Q228205"
+        },
+        "title": "Admonitio synodalis ",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Priesterfraten Priester Domini cooperatores ordinis nostri estis. Nos quamvis indigni locum Aaron tenemus",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "193vb",
+            "to": "194rb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Damasus I (pope)",
+          "uri": "http://www.wikidata.org/entity/Q130997"
+        },
+        "title": "Epistolae ",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Dominis venerabilibus fratribus Prospero Numidie prime sedis episcopo Leoni Reparato Alexandro Benedicto Rufo et omnibus ceteris - Licet fratres",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "194rb",
+            "to": "196ra"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "Acta Concilii Placentini a. 1095 ",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Jahr dominice incarnationis millesimo nonagesimo quinto ... Ea quae a sanctissimis patribus de symoniacis statuta sunt",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "196ra",
+            "to": "196rb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "",
+          "uri": ""
+        },
+        "title": "De observatione ieiuniorum IIII temporum et de ordinatione facienda in initio Quadragesimae et ebdomada Pentecostis",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": " Licet nova consutudo Ecclesiae nichts fulta auctoritate",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "196va",
+            "to": "196vb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Zachary (pope)",
+          "uri": "http://www.wikidata.org/entity/Q139467"
+        },
+        "title": "Decreta ",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Gregorius Venerio Caralis episcopo... De gradibus propinquitatis super quibus parvitatem nostram consulere placuit quod ego",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "196vb",
+            "to": "197ra"
+          }
+        ]
+      }
+    ],
+    "provenance": [],
+    "literature": []
+  }
+]
