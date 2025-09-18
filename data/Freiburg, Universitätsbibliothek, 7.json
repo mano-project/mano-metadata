@@ -1,0 +1,203 @@
+[
+  {
+    "msTitle": "Freiburg, Universitätsbibliothek, 7",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "University Library Freiburg (library in the University of Freiburg, Germany)",
+      "uri": "http://www.wikidata.org/entity/Q2496308"
+    },
+    "geoRepository": "47.99388889, 7.84527778",
+    "settlementIdent": {
+      "value": "Freiburg im Breisgau",
+      "uri": "https://www.wikidata.org/entity/Q2833"
+    },
+    "countryIdent": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "idno": "7",
+    "msSigle": "Fr",
+    "altIdentifier": "",
+    "msName": "Freiburg, Universitätsbibliothek, 7",
+    "summaryContents": "Burchard von Worms, Decretum und andere Texte",
+    "condition": "",
+    "hands": "",
+    "script": {
+      "value": "Caroline minuscule",
+      "uri": "http://vocab.getty.edu/aat/300195207"
+    },
+    "material": "parchment",
+    "leaves": "311",
+    "height": "33",
+    "width": "27",
+    "columns": "2",
+    "lines": "30",
+    "summaryProvenance": "Auf Veranlassung Bischof Eberhards I. von Konstanz (1034/46) geschrieben.",
+    "origPlace": {
+      "value": "Constance (city in Germany)",
+      "uri": "http://www.wikidata.org/entity/Q3834"
+    },
+    "geoOrigin": "47.663333333333, 9.1752777777778",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginNotBefore": "1034",
+    "dateOriginNotAfter": "1046",
+    "digi": "",
+    "iiifManifest": "",
+    "cat": "https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor=kid%3A1649602081",
+    "responsiblePersons": [
+      {
+        "name": "Matthias",
+        "surname": "Rozein",
+        "affiliation": {
+          "value": "University of Liège (Belgian public university founded in 1817)",
+          "uri": "http://www.wikidata.org/entity/Q1334582"
+        },
+        "ref": ""
+      },
+      {
+        "name": "Gabriel",
+        "surname": "Anhegger",
+        "affiliation": {
+          "value": "University of Tübingen (public research university in Tübingen, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q153978"
+        },
+        "ref": ""
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Burghardus solo nomine Wormaciensis episcopus",
+        "explicit": "vere non potuerunt",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1va",
+            "to": "309vb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "311va",
+            "to": "311rb"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Christi favente clementia ego Eberhardus in sancta Constantiensi ecclesia dei famulus sub nomine episcopi",
+        "explicit": "buere valeant",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "311va",
+            "to": ""
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Bonus fuit clericus",
+        "explicit": "tenete dixit munialis",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1r",
+            "to": "1r"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Additions",
+        "textLang": {
+          "value": "",
+          "uri": ""
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "",
+            "to": ""
+          }
+        ]
+      }
+    ],
+    "provenance": [
+      {
+        "name": {
+          "value": "",
+          "uri": ""
+        },
+        "type": "",
+        "date": "",
+        "geo": "",
+        "settlement": {
+          "value": "",
+          "uri": ""
+        },
+        "country": {
+          "value": "",
+          "uri": ""
+        }
+      }
+    ],
+    "literature": []
+  }
+]
