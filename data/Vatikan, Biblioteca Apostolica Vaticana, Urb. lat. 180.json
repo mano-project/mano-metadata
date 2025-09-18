@@ -1,0 +1,223 @@
+[
+  {
+    "msTitle": "Vatikan, Biblioteca Apostolica Vaticana, Urb. lat. 180",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "Vatican Library (library of the Holy See)",
+      "uri": "http://www.wikidata.org/entity/Q213678"
+    },
+    "geoRepository": "41.904722222222, 12.454444444444",
+    "settlementIdent": {
+      "value": "Vatican City",
+      "uri": "https://www.wikidata.org/entity/Q237"
+    },
+    "countryIdent": {
+      "value": "Vatican City",
+      "uri": "https://www.wikidata.org/entity/Q237"
+    },
+    "idno": "Urb. lat. 180",
+    "msSigle": "Va5",
+    "altIdentifier": "243 (old shelfmark)",
+    "msName": "Vatikan, Biblioteca Apostolica Vaticana, Urb. lat. 180",
+    "summaryContents": "1)2r: Stemma di Federico II da Montefeltro.\n2)2r-309r: Burchard, vesc. di Worms, c. 965-1025 Decretum\n3)309r-v: Constitutiones",
+    "condition": "Codex in antiquo indice urbin. n. 321 distinctus binis columnis ac littera rotunda maiore exaratus est. Tituli maiusculis rubris, initiales maiores rubrae. In imo margine f. 2 tessera gentilicia Friderici Urbini ducis. In f. 309 se subscripsit Leonardus AreLinus, qui fortasse ff. 1-7, 243-256 restituit. Ff. I, II, l r , 256 v , 310, 311 vacua.",
+    "hands": "",
+    "script": {
+      "value": "",
+      "uri": ""
+    },
+    "material": "parchment",
+    "leaves": "311",
+    "height": "36",
+    "width": "25",
+    "columns": "2",
+    "lines": "",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "",
+      "uri": ""
+    },
+    "geoOrigin": "",
+    "countryOrigin": {
+      "value": "",
+      "uri": ""
+    },
+    "dateOriginNotBefore": "10th century",
+    "dateOriginNotAfter": "15th century",
+    "digi": "https://digi.vatlib.it/view/MSS_Urb.lat.180/0001",
+    "iiifManifest": "",
+    "cat": "https://digi.vatlib.it/mss/detail/Urb.lat.180",
+    "responsiblePersons": [
+      {
+        "name": "Friederike",
+        "surname": "Voit",
+        "affiliation": {
+          "value": "Radboud University Nijmegen (public research university in Nijmegen, Netherlands)",
+          "uri": "http://www.wikidata.org/entity/Q632004"
+        },
+        "ref": ""
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Stemma di Federico II da Montefeltro.",
+        "textLang": {
+          "value": "",
+          "uri": ""
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "2r",
+            "to": ""
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "Ex sinodalicis institutis",
+        "explicit": "Explicit liber penitentia.",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "Canon law",
+        "pageRanges": [
+          {
+            "from": "2r",
+            "to": "309r"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Constitutiones",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "309r",
+            "to": "309v"
+          }
+        ]
+      }
+    ],
+    "provenance": [],
+    "literature": [
+      {
+        "type": "book",
+        "title": "Handschriftenforschungen in Italien. I. Zur Überlieferung des Dekrets Bischof Burchards von Worms, In Quellen und Forschungen aus italienischen Archiven und Bibliotheken",
+        "date": "1971",
+        "citedRange": "648",
+        "publisher": "",
+        "pubPlace": "",
+        "series": "",
+        "authors": [
+          {
+            "forename": "Hubert",
+            "surname": "Mordek"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      },
+      {
+        "type": "journalArticle",
+        "title": "Nachrichten über die von ihm für die «Monumenta Germaniae historica» benutzten Sammlungen von Handschriften und Urkunden Italiens, aus dem Jahre 1854,",
+        "date": "1854",
+        "citedRange": "",
+        "publisher": "",
+        "pubPlace": "",
+        "series": "Archiv der Gesellschaft für ältere deutsche Geschichtskunde, 12",
+        "authors": [
+          {
+            "forename": "Ludwig Konrad",
+            "surname": "Bethmann"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      },
+      {
+        "type": "journalArticle",
+        "title": "La collezione canonica del Regesto di Farfa,",
+        "date": "1894",
+        "citedRange": "",
+        "publisher": "",
+        "pubPlace": "",
+        "series": "Archivio della Società romana di storia patria, 17",
+        "authors": [
+          {
+            "forename": "Paul",
+            "surname": "Fournier"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      },
+      {
+        "type": "journalArticle",
+        "title": "Das Dekret Bischof Burkhards von Worms (1000-1025) in Vatikanischen Hss.,",
+        "date": "1946",
+        "citedRange": "155, 146-47",
+        "publisher": "",
+        "pubPlace": "Vatican",
+        "series": "Miscellanea Giovanni Mercati, II: Letteratura medioevale (Studi e testi, 122),",
+        "authors": [
+          {
+            "forename": "Franz",
+            "surname": "Pelster"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      },
+      {
+        "type": "journalArticle",
+        "title": "Federico di Montefeltro e Ottaviano Ubaldini della Carda,",
+        "date": "1986",
+        "citedRange": "",
+        "publisher": "",
+        "pubPlace": "Rome",
+        "series": "",
+        "authors": [
+          {
+            "forename": "Luigi",
+            "surname": "Michelini Tocci"
+          }
+        ],
+        "editors": [
+          ""
+        ]
+      }
+    ]
+  }
+]

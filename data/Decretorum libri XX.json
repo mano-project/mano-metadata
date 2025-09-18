@@ -1,0 +1,55 @@
+[
+  {
+    "msTitle": "Decretorum libri XX",
+    "publicationStmt": "CC0",
+    "repository": {
+      "value": "Biblioteca Nacional de España (library in Spain)",
+      "uri": "http://www.wikidata.org/entity/Q750403"
+    },
+    "geoRepository": "40.423822, -3.690215",
+    "settlementIdent": {
+      "value": "Madrid",
+      "uri": "https://www.wikidata.org/entity/Q2807"
+    },
+    "countryIdent": {
+      "value": "Spain",
+      "uri": "https://www.wikidata.org/entity/Q29"
+    },
+    "idno": "Mss/391",
+    "msSigle": "Md2",
+    "altIdentifier": "",
+    "msName": "",
+    "summaryContents": "Burchard of Worms Decretorum libri XX, fragmentary, beginning at the Prologue. Additions: Ordo synodalis 7 following Books XX, written by later hand",
+    "condition": "Slightly damaged",
+    "hands": "",
+    "script": {
+      "value": "",
+      "uri": ""
+    },
+    "material": "parchment",
+    "leaves": "204",
+    "height": "40",
+    "width": "30",
+    "columns": "2",
+    "lines": "39",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "",
+      "uri": ""
+    },
+    "geoOrigin": "",
+    "countryOrigin": {
+      "value": "",
+      "uri": ""
+    },
+    "dateOriginNotBefore": "1101",
+    "dateOriginNotAfter": "1200",
+    "digi": "https://bdh-rd.bne.es/viewer.vm?id=0000040427&page=1",
+    "iiifManifest": "",
+    "cat": "https://bdh.bne.es/bnesearch/detalle/bdh0000040427",
+    "responsiblePersons": [],
+    "msItems": [],
+    "provenance": [],
+    "literature": []
+  }
+]
