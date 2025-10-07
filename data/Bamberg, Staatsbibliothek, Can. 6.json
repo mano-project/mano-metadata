@@ -1,6 +1,7 @@
 [
   {
     "msTitle": "Bamberg, Staatsbibliothek, Can. 6",
+    "xmlLang": "de",
     "publicationStmt": "CC0",
     "repository": {
       "value": "Bamberg State Library (library)",
@@ -27,9 +28,9 @@
       "uri": "http://vocab.getty.edu/aat/300195207"
     },
     "material": "parchment",
+    "leaves": "312",
     "height": "33",
     "width": "26",
-    "leaves": "312",
     "columns": "2",
     "lines": "30",
     "summaryProvenance": "Geschrieben in Worms im ¼ d. 11. Jahrhunderts. Eigentum Dombibliothek Bamberg.",
@@ -42,6 +43,7 @@
       "value": "Germany",
       "uri": "https://www.wikidata.org/entity/Q183"
     },
+    "dateOriginText": "",
     "dateOriginNotBefore": "1025",
     "dateOriginNotAfter": "1000",
     "digi": "https://www.digitale-sammlungen.de/de/view/bsb00140701",
@@ -55,7 +57,7 @@
           "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
           "uri": "http://www.wikidata.org/entity/Q161982"
         },
-        "ref": " https://orcid.org/0000-0003-1959-2897"
+        "ref": "https://orcid.org/0000-0003-1959-2897"
       }
     ],
     "msItems": [
@@ -133,15 +135,17 @@
     "provenance": [
       {
         "name": {
-          "value": "Dombibliothek Bamberg",
-          "uri": ""
+          "value": "Bamberg State Library (library)",
+          "uri": "http://www.wikidata.org/entity/Q324689"
         },
         "type": "org",
         "date": "",
-        "geo": "49.891666666667, 10.891666666667",
+        "notBefore": "",
+        "notAfter": "",
+        "geo": "49.891855555556, 10.882333333333",
         "settlement": {
           "value": "Bamberg",
-          "uri": ""
+          "uri": "https://www.wikidata.org/entity/Q3936"
         },
         "country": {
           "value": "Germany",
