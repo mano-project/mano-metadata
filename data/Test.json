@@ -146,6 +146,7 @@
             "surname": "Rudolf"
           }
         ],
+        "isbn": "1234567891111",
         "editors": []
       },
       {
@@ -155,6 +156,7 @@
         "date": "2021",
         "citedRange": "1-5",
         "pubPlace": "ROMA",
+        "series": "1",
         "publisher": "casa ed",
         "series": "1",
         "authors": [
@@ -163,6 +165,7 @@
             "surname": "parma"
           }
         ],
+        "isbn": "1234567891111",
         "editors": []
       }
     ],
