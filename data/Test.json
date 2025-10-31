@@ -1,0 +1,181 @@
+[
+  {
+    "msTitle": "Test",
+    "xmlLang": "de",
+    "publicationStmt": "CC0",
+    "msName": "Bamberg, can. 6, B",
+    "collection": "can 6",
+    "msSigle": "B",
+    "altIdentifier": "alt id",
+    "repository": {
+      "value": "Bamberg State Library (library)",
+      "uri": "http://www.wikidata.org/entity/Q324689"
+    },
+    "geoRepository": "49.891855555556, 10.882333333333",
+    "settlementIdent": {
+      "value": "Bamberg",
+      "uri": "https://www.wikidata.org/entity/Q3936"
+    },
+    "countryIdent": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "summaryContents": "some content here",
+    "condition": "some conditions",
+    "material": "parchment",
+    "height": "33",
+    "width": "26",
+    "leaves": "200",
+    "columns": "2",
+    "lines": "30",
+    "hands": "5",
+    "handsDesc": "some description",
+    "scriptNote-0": "Caroline minuscule",
+    "decoDesc": "deco",
+    "musicNotation": "music",
+    "additions": "add",
+    "accMat": "acc mat",
+    "bindingDesc": "bind",
+    "seal-0": "seal",
+    "summaryProvenance": "some history",
+    "origPlace": {
+      "value": "Worms (town in Rhineland-Palatinate, Germany)",
+      "uri": "http://www.wikidata.org/entity/Q3852"
+    },
+    "geoOrigin": "49.6302618, 8.3620898",
+    "countryOrigin": {
+      "value": "Germany",
+      "uri": "https://www.wikidata.org/entity/Q183"
+    },
+    "dateOriginText": "11th century",
+    "dateOriginNotBefore": "1000",
+    "dateOriginNotAfter": "1025",
+    "digi": "https://www.digitale-sammlungen.de/de/view/bsb00140701",
+    "iiifManifest": "https://www.digitale-sammlungen.de/de/view/bsb00140701",
+    "cat": "https://www.digitale-sammlungen.de/de/view/bsb00140701",
+    "script": {
+      "value": "",
+      "uri": ""
+    },
+    "responsiblePersons": [
+      {
+        "name": "Michela",
+        "surname": "Parma",
+        "affiliation": {
+          "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q161982"
+        },
+        "ref": "https://orcid.org/0000-0003-1959-2897",
+        "resp": "com"
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "incipit",
+        "explicit": "explicit",
+        "textFamily": "A",
+        "textSubFamily": "B",
+        "textGenre": "canonical",
+        "pageRanges": [
+          {
+            "from": "1",
+            "to": "200"
+          }
+        ]
+      }
+    ],
+    "handDesc": {
+      "hands": "5",
+      "desc": "some description"
+    },
+    "scriptNotes": [
+      {
+        "value": "Caroline minuscule",
+        "uri": "http://vocab.getty.edu/aat/300195207"
+      }
+    ],
+    "seals": [
+      "seal"
+    ],
+    "provenance": [
+      {
+        "name": {
+          "value": "Vatican Library (library of the Holy See)",
+          "uri": "http://www.wikidata.org/entity/Q213678"
+        },
+        "type": "org",
+        "geo": {
+          "value": "41.904722222222, 12.454444444444",
+          "uri": ""
+        },
+        "date": "12th century",
+        "notBefore": "1100",
+        "notAfter": "1200",
+        "settlement": {
+          "value": "Vatican City",
+          "uri": "https://www.wikidata.org/entity/Q237"
+        },
+        "country": {
+          "value": "Vatican City",
+          "uri": "https://www.wikidata.org/entity/Q237"
+        }
+      }
+    ],
+    "literature": [
+      {
+        "type": "",
+        "ref": "https://openlibrary.org/works/OL91613W",
+        "title": "Das altkatholische Kirchenrecht und das Dekret Gratians",
+        "date": "1918",
+        "citedRange": "",
+        "pubPlace": "München",
+        "publisher": "Duncker & Humblot",
+        "series": "",
+        "authors": [
+          {
+            "forename": "Sohm,",
+            "surname": "Rudolf"
+          }
+        ],
+        "editors": []
+      },
+      {
+        "type": "",
+        "ref": "",
+        "title": "titolo",
+        "date": "2021",
+        "citedRange": "1-5",
+        "pubPlace": "ROMA",
+        "publisher": "casa ed",
+        "series": "1",
+        "authors": [
+          {
+            "forename": "michela",
+            "surname": "parma"
+          }
+        ],
+        "editors": []
+      }
+    ],
+    "publicationStructured": {
+      "publisher": {
+        "name": "MANO - Manuscripts Online",
+        "ref": "https://mano-project.github.io/"
+      },
+      "licence": {
+        "name": "CC0",
+        "target": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "date": "2025-10-31"
+    }
+  }
+]
