@@ -1,0 +1,406 @@
+[
+  {
+    "msTitle": "Durham_CathedralLibrary_B.IV.17",
+    "xmlLang": "en",
+    "publicationStmt": "CC0",
+    "msName": "Durham, Cathedral Library, B.IV.17",
+    "collection": "B.IV.17",
+    "msSigle": "Du",
+    "altIdentifier": "",
+    "repository": {
+      "value": "Durham Cathedral Library: Durham Cathedral Manuscripts",
+      "uri": ""
+    },
+    "geoRepository": "54.773236, 1.578967",
+    "settlementIdent": {
+      "value": "Durham",
+      "uri": ""
+    },
+    "countryIdent": {
+      "value": "United Kingdom",
+      "uri": ""
+    },
+    "summaryContents": "",
+    "condition": "",
+    "material": "parchment",
+    "height": "27.5",
+    "width": "17.8",
+    "leaves": "173",
+    "columns": "",
+    "lines": "",
+    "hands": "",
+    "handsDesc": "Written in several rather variable hands (Mynors)",
+    "decoDesc": "",
+    "musicNotation": "",
+    "additions": "",
+    "accMat": "",
+    "bindingDesc": "Standard Tuckett binding, mid 19th century full brown calf over thick wooden boards (Charles Tuckett, binder to the British Museum, rebound many Durham manuscripts in the 19th century)",
+    "summaryProvenance": "",
+    "origPlace": {
+      "value": "",
+      "uri": ""
+    },
+    "geoOrigin": "",
+    "countryOrigin": {
+      "value": "",
+      "uri": ""
+    },
+    "dateOriginText": "",
+    "dateOriginNotBefore": "",
+    "dateOriginNotAfter": "",
+    "digi": "https://iiif.durham.ac.uk/index.html?manifest=t1mp2676v57k",
+    "iiifManifest": "",
+    "cat": "https://reed.dur.ac.uk/xtf/view?docId=ark/32150_s21831cj943.xml",
+    "script": {
+      "value": "",
+      "uri": ""
+    },
+    "responsiblePersons": [
+      {
+        "name": "Michela",
+        "surname": "Parma",
+        "affiliation": {
+          "value": "Johannes Gutenberg University Mainz (public university in Mainz, Germany)",
+          "uri": "http://www.wikidata.org/entity/Q161982"
+        },
+        "ref": "https://orcid.org/0000-0003-1959-2897",
+        "resp": "edt"
+      }
+    ],
+    "msItems": [
+      {
+        "author": {
+          "value": "Ivo of Chartres (French abbot and bishop of Chartres (c.1040–1116))",
+          "uri": "http://www.wikidata.org/entity/Q124775"
+        },
+        "title": "Epistolae",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "1",
+            "to": "3"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Burchard of Worms (Roman Catholic bishop)",
+          "uri": "http://www.wikidata.org/entity/Q62668"
+        },
+        "title": "Decretum",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "4",
+            "to": "165v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Leo IV (pope of the Catholic Church)",
+          "uri": "http://www.wikidata.org/entity/Q228205"
+        },
+        "title": "Homilia synodalis",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "165v",
+            "to": "166v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Concilia Salegunstadtiense: canones",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "166v",
+            "to": "168"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "De bannito ieiunio etc.",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "168",
+            "to": "168"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Ex decretis Gregorii pape quod monachi possint baptizare",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "168",
+            "to": "168"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Three papal letters [Jaffé - Wattenbach nos. 1996 (Boniface IV), 4505 (Alexander II), 3443 “Consolvisti” (Stephen V)]",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "168v",
+            "to": "169"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Concilium Londiniense: canones",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "169r",
+            "to": "169v"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Tituli cardinalium Romanorum",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "170",
+            "to": "170"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "De Constantino imperatore, etc.",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "170",
+            "to": "172"
+          }
+        ]
+      },
+      {
+        "author": {
+          "value": "Unknown or Anonymous",
+          "uri": "https://www.wikidata.org/wiki/Q4233718"
+        },
+        "title": "Concilium Turonense: canones",
+        "textLang": {
+          "value": "Latin (Indo-European language of the Italic branch)",
+          "uri": "http://www.wikidata.org/entity/Q397"
+        },
+        "incipit": "",
+        "explicit": "",
+        "textFamily": "",
+        "textSubFamily": "",
+        "textGenre": "",
+        "pageRanges": [
+          {
+            "from": "172v",
+            "to": "173"
+          }
+        ]
+      }
+    ],
+    "handDesc": {
+      "hands": "",
+      "desc": "Written in several rather variable hands (Mynors)"
+    },
+    "scriptNotes": [],
+    "seals": [],
+    "provenance": [],
+    "literature": [
+      {
+        "title": "Catalogi veteres librorum Ecclesiae cathedralis dunelm: Catalogues of the Library of Durham ...",
+        "date": 1838,
+        "publisher": "J. B. Nichols and son",
+        "pubPlace": "",
+        "authors": [
+          {
+            "forename": "Hulne abbey. Library",
+            "surname": ""
+          },
+          {
+            "forename": "Durham Cathedral",
+            "surname": "Library"
+          },
+          {
+            "forename": "Beriah",
+            "surname": "Botfield"
+          },
+          {
+            "forename": "Durham",
+            "surname": "(England)"
+          },
+          {
+            "forename": "Durham",
+            "surname": "Cathedral"
+          },
+          {
+            "forename": "Bishop Cosin 's",
+            "surname": "library"
+          }
+        ],
+        "isbn": "",
+        "ref": "https://openlibrary.org/works/OL19580719W",
+        "source": "openLibrary",
+        "series": "",
+        "language": ""
+      },
+      {
+        "title": "Regesta pontificum romanorum ab condita ecclesia ad annum post Christum natum MCXCVIII",
+        "date": 1956,
+        "publisher": "Veit et comp",
+        "pubPlace": "Lipsiae",
+        "authors": [
+          {
+            "forename": "Catholic Church.",
+            "surname": "Pope."
+          }
+        ],
+        "isbn": "",
+        "ref": "https://openlibrary.org/works/OL819091W",
+        "source": "openLibrary",
+        "series": "",
+        "language": "lat"
+      },
+      {
+        "title": "Durham Cathedral Manuscripts to the end of the twelfth century ..",
+        "date": 1939,
+        "publisher": "for the Dean and Chapter of Durham Cathedral",
+        "pubPlace": "Oxford",
+        "authors": [
+          {
+            "forename": "Durham Cathedral.",
+            "surname": "Library."
+          }
+        ],
+        "isbn": "",
+        "ref": "https://openlibrary.org/works/OL5458234W",
+        "source": "openLibrary",
+        "series": "",
+        "language": "eng"
+      }
+    ],
+    "publicationStructured": {
+      "publisher": {
+        "name": "MANO - Manuscripts Online",
+        "ref": "https://mano-project.github.io/"
+      },
+      "licence": {
+        "name": "CC0",
+        "target": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "date": "2025-12-03"
+    }
+  }
+]
